@@ -1,0 +1,9 @@
+<meta>
+    <info author="Samt2497" type="script" name="HoloScreen" /> 
+    <min_mta_version client="1.4.0" server="1.4.0" /> 
+ 
+    <script src="matrix.lua" type="client" />
+    <script src="complex.lua" type="client" />
+    <script src="client.lua" type="client" />
+    <script src="demo.lua" type="client" />
+</meta>
